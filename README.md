@@ -9,6 +9,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento"
+
 ![diagrama de classe](./img/diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
@@ -36,13 +37,17 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 1. Menu iterativo pronto
+
 ![Menu pronto](./img/programaRodando2.png)
 
 2. Funcionalidade de adicionar um novo veículo
+
 ![Adicionar veiculos](./img/cadastroVeiculos2.png)
 
 3. Funcionalidade de listar veículos
+
 ![Listar veiculos](./img/ListaVeiculo1.png)
 
 4. Funcionalidade de remover veículos
+
 ![Remover veículos](./img/removerVeiculos.png)
