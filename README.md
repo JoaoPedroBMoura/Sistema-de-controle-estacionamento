@@ -51,3 +51,8 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 4. Funcionalidade de remover veículos
 
 ![Remover veículos](./img/removerVeiculos.png)
+
+## Para usar
+> Basta baixar o diretório e rodar o comando
+> ```bash
+> dotnet run
